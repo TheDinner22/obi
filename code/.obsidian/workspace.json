@@ -1,0 +1,150 @@
+{
+  "main": {
+    "id": "d72bfb8cc78bcdbb",
+    "type": "split",
+    "children": [
+      {
+        "id": "5aebf8d4169589b1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a1c1da02e2d4b601",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "rust/Closure Traits.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "931efb5edee771cc",
+    "type": "split",
+    "children": [
+      {
+        "id": "8dc2d320b401959e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "836e34ca036fb06f",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "4b49b62795421ad2",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "94da96bd09b34ba8",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "a79dbe805e46e272",
+    "type": "split",
+    "children": [
+      {
+        "id": "ffa57a0a1c9a7c3d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "eb927f8f9a948ab0",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "rust/Closure Traits.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "ec647b5bbcd11935",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "rust/Closure Traits.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "af34f4c31eea8e1b",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "18f9d3019a392765",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "rust/Closure Traits.md"
+              }
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "active": "a1c1da02e2d4b601",
+  "lastOpenFiles": [
+    "rust/Closure Traits.md",
+    "rust/Rust TCP binding.md",
+    "rust/Rust TcpStream.md",
+    "rust/sort_by_key.md",
+    "FnOnce.md",
+    "Basic mark down.md",
+    "2022-12-15.md",
+    "hell.md"
+  ]
+}
