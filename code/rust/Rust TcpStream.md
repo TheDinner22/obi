@@ -7,7 +7,6 @@ You can read and write to/from this request stream.
 ## code example
 
 ```rust
-```rust
 use std::io::prelude::*;
 use std::net::TcpListener;
 use std::net::TcpStream;
