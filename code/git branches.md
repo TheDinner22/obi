@@ -72,10 +72,16 @@ To create a new git branch **and** swap to it, call `git checkout -b some/name-h
 
 To delete a brach, you can call `git branch -d some/name-here`
 
+### deleting remote branches
+
 after deleting a brach locally, you can remove it from your remote by calling
 
 > 
 > `git push origin :branch1`
 > 
 
+that is sort of like pushing the deletion to your remote. What about pulling a deletion down from a remote?
+
+If you delete a remote (maybe from github or from another device), it will still show up locally unless you call the 
+`git fetch --prune` command.
 
